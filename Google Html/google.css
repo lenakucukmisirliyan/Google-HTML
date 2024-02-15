@@ -1,0 +1,34 @@
+#google-photo{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80;
+}
+form{
+    text-align: center;
+    font-size: +2;
+}
+#searchbar{
+    line-height: 3;
+    width: 550px;
+    border-radius: 70px;
+    background-color: rgba(4, 0, 0, 0.2);
+    border: 1px solid rgba(245, 245, 245, 0.363);
+    margin-top: -10;
+}
+.button{
+    border-radius: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.192);
+    padding: 12px;
+    background-color: rgba(255, 255, 255, 0.063);
+    font-size: 15;
+}
+#google-button{
+    margin-right: 2px;
+}
+#feel-button{
+    margin-left: 2px;
+}
+body{
+    background-color:rgba(0, 0, 0, 0.864);
+}
